@@ -1,5 +1,5 @@
 # substitua o site desse scrapy pelo o de seu interesse. pois como se trata de um sistema da Força Aérea Brasileira, só as maquinas de lá tem acesso devido proxy. caso tente executar esse código não tera sucesso por esse motivo.
-
+# 
 
 
 
