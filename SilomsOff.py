@@ -20,7 +20,7 @@ class Application:
 
         # Caminhos dos arquivos
         self.arquivo_referencia = r"C:\Users\rebello\Desktop\scrapy siloms\dados_carga.xlsx" # aqui voce define o local do arquivo gerado pelo o scrapy feito
-        self.arquivo_manifesto = r"C:\Users\rebello\Desktop\scrapy siloms\MANIFESTO MANUAL.xlsx" # aqui o modelo de arquivo que deseja inserir os dados
+        self.arquivo_manifesto = r"C:\Users\rebello\Desktop\scrapy siloms\MANIFESTO MANUAL(1).xlsx" # aqui o modelo de arquivo que deseja inserir os dados
 
         self.root.protocol("WM_DELETE_WINDOW", self.on_closing)
         self.root.mainloop()
